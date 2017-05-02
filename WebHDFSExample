@@ -1,0 +1,6 @@
+Accessing hdfs file using webhdfs rest api  email
+
+
+Add to the body of the emil
+
+<a href="http://<HOST>:<PORT>/webhdfs/v1/<PATH>?[user.name=<USER>&]op=OPEN">Click me to read</a>
